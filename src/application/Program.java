@@ -17,7 +17,6 @@ public class Program {
 		ChessMatch chessMatch = new ChessMatch();
 		
 		
-		System.out.println("Manu do potão");
 		while (true) {
 			try {
 				UI.clearScreen();
